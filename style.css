@@ -1,0 +1,322 @@
+/*Full body Basic CSS*/
+h2{
+    color: darkred;
+    text-align: center;
+    font-size: 40px;
+    border: 10px solid red;
+    padding: 20px 0px;
+    border-radius: 60px;
+    width: 400px;
+    margin: 0 auto;
+}
+h4{
+    color: magenta;
+    font-size: 30PX;
+    border: 5px solid green;
+    border-radius: 50px;
+    text-align: center;
+    margin: 0 auto;
+    width: 200px;
+}
+
+/*Hide button*/
+.show1{
+    margin-top: 50px;
+}
+.show1 button{
+    padding: 10px;
+    background-color: yellow;
+}
+/*Change color*/
+.show2{
+    margin-top: 50px;
+}
+.show2 p{
+    background-color: red;
+    padding: 10px;
+}
+.show2 button{
+    padding: 10px;
+    background-color: yellow;
+}
+/*Double Click*/
+.show3{
+    margin-top: 50px;
+}
+.show3 p{
+    background-color: red;
+    padding: 10px;
+}
+.show3 button{
+    padding: 10px;
+    background-color: yellow;
+}
+
+/*Hover*/
+.show4{
+    margin-top: 50px;
+}
+.show4 p{
+    background-color: red;
+    padding: 10px;
+}
+.show4 button{
+    padding: 10px;
+    background-color: yellow;
+}
+
+/*Mouseenter*/
+.show5{
+    margin-top: 50px;
+}
+.show5 p{
+    background-color: red;
+    padding: 10px;
+}
+.show5 button{
+    padding: 10px;
+    background-color: yellow;
+}
+
+/*Mouseleave*/
+.show6{
+    margin-top: 50px;
+}
+.show6 p{
+    background-color: red;
+    padding: 10px;
+}
+.show6 button{
+    padding: 10px;
+    background-color: yellow;
+}
+
+/*Toggle*/
+.show7{
+    margin-top: 50px;
+}
+.show7 p{
+    background-color: red;
+    padding: 10px;
+}
+.show7 button{
+    padding: 10px;
+    background-color: yellow;
+}
+
+/*Hide Myself*/
+.show8{
+    margin-top: 50px;
+}
+.show8 p{
+    background-color: red;
+    padding: 10px;
+}
+.show8 button{
+    padding: 10px;
+    background-color: yellow;
+}
+
+
+/*Hide & Show Button*/
+.show9 .Hide{
+    width: 300px;
+}
+.show9{
+    margin-top: 50px;
+    }
+.show9 .btn1{
+    background-color: yellow;
+    padding: 10px;
+    margin-right: 10px;
+    
+}
+.show9 .btn2{
+    background-color: yellow;
+    padding: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    
+}
+
+/*Hide & Show text*/
+
+.show10 .Hide{
+    width: 300px;
+}
+.show10{
+    margin-top: 50px;
+    }
+.show10 .btn1{
+    background-color: yellow;
+    padding: 10px;
+    margin-right: 10px;
+    
+}
+.show10 .btn2{
+    background-color: yellow;
+    padding: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    
+}
+.show10 p{
+    background-color: red;
+    padding: 10px;
+}
+
+/*slide Down*/
+.show11{
+    padding-top: 50px;
+}
+
+.show11 h5{
+    background-color: bisque;
+    text-align: center;
+    color: darkblue;
+    font-size: 25px;
+    padding: 10px 0px;
+    margin-bottom: 10px;
+}
+.show11 p{
+    font-size: 20px;
+    background-color: red;
+    color: wheat;
+    text-align: center;
+    width: 400px;
+    margin: 0 auto;
+    border-radius: 10px;
+    display: none;
+}
+
+
+/*slide Up*/
+.show12{
+    padding-top: 50px;
+}
+
+.show12 h5{
+    background-color: bisque;
+    text-align: center;
+    color: darkblue;
+    font-size: 25px;
+    padding: 10px 0px;
+    margin-bottom: 10px;
+}
+.show12 p{
+    font-size: 20px;
+    background-color: red;
+    color: wheat;
+    text-align: center;
+    width: 400px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+
+
+
+/*slide Toggle*/
+.show13{
+    padding-top: 50px;
+}
+
+.show13 h5{
+    background-color: bisque;
+    text-align: center;
+    color: darkblue;
+    font-size: 25px;
+    padding: 10px 0px;
+    margin-bottom: 10px;
+}
+.show13 p{
+    font-size: 20px;
+    background-color: red;
+    color: wheat;
+    text-align: center;
+    width: 400px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+/*Animation*/
+
+.show14{
+    padding-top: 50px;
+}
+.show14 div{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    position: relative;
+    margin: 50px 0;
+}
+.show14 button{
+    padding: 10px;
+    background-color: yellow;
+}
+
+
+/*jQuery Traversing Ancestors*/
+
+.show15{
+    padding-top: 50px;
+}
+.show15 *{
+    
+    display: block;
+    border: 3px solid pink;
+    padding: 5px;
+    margin: 15px;
+}
+.show15 h4{
+    width: 400px;
+    margin: 0 auto
+    }
+
+.show15 div{
+    margin-top: 30px;
+}
+
+/*jQuery Traversing Decendent*/
+
+.show16{
+    padding-top: 50px;
+}
+.show16 *{
+    display: block;
+    border: 3px solid pink;
+    padding: 5px;
+    margin: 15px;
+}
+    
+
+.show16 h4{
+    width: 400px;
+    margin: 0 auto;
+}
+.show16 p{
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
